@@ -1,7 +1,5 @@
 <h1>Challenge ONE: Phyton for Data Science</h1>
 
-# Análisis de Ventas por Tienda
-
 Este archivo acompaña al notebook principal 'Challenge_1_Ventas_Tiendas_RVJ.ipynb' donde se realiza un análisis exploratorio de datos sobre ventas en cuatro tiendas. A continuación se describe brevemente la estructura y contenidos del proyecto.
 
 ## 📥 Importación de Datos
