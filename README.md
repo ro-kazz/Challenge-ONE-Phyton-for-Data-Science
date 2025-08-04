@@ -1,8 +1,8 @@
 <h1>Challenge ONE: Phyton for Data Science</h1>
 
-# Análisis de Ventas por Tienda - README
+# Análisis de Ventas por Tienda
 
-Este archivo acompaña al notebook principal donde se realiza un análisis exploratorio de datos sobre ventas en cuatro tiendas. A continuación se describe brevemente la estructura y contenidos del proyecto.
+Este archivo acompaña al notebook principal 'Challenge_1_Ventas_Tiendas_RVJ.ipynb' donde se realiza un análisis exploratorio de datos sobre ventas en cuatro tiendas. A continuación se describe brevemente la estructura y contenidos del proyecto.
 
 ## 📥 Importación de Datos
 
@@ -36,7 +36,7 @@ Se estimó una medida de rentabilidad bruta aproximada restando el costo de env�
 
 Además del análisis visual, se incluye un informe estructurado con los siguientes apartados:
 - **Introducción**
-- **Desarrollo** (con los ámbitos descritos previamente)
+- **Desarrollo**
 - **Conclusión**
 
 Este README resume el enfoque del análisis. Los resultados numéricos, gráficos y conclusiones están contenidos directamente en el notebook.
