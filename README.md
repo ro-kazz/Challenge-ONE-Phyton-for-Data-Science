@@ -39,5 +39,4 @@ Además del análisis visual, se incluye un informe estructurado con los siguien
 - **Desarrollo**
 - **Conclusión**
 
-Este README resume el enfoque del análisis. Los resultados numéricos, gráficos y conclusiones están contenidos directamente en el notebook.
 
